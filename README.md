@@ -1,3 +1,3 @@
 - 😄 Hi devs, my name is Angelo and i just start coding
 - 💻 I love the tech area and video games
-- 🍃 I hope to meet new awesome people here in git, and share with you my codes 
+- 🍃 I hope to meet new awesome people here in github, and share with you my codes 
