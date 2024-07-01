@@ -5,3 +5,5 @@
 ---
 ### Redes Sociais
 - Meu [Instagram](https://www.instagram.com/anglogaab/)
+### Estudos
+- Veja o que estou estudando em [Estudos](https://github.com/Angelo-Gabriel-Dev/Estudos)
