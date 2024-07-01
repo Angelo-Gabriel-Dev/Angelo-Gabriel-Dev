@@ -1,9 +1,16 @@
-# Bem-vindo ao meu perfil!!
-- 😄 Fala devs! Meu nome é Ângelo e acabei de chegar aqui no Github
-- 💻 Eu amo a área de tecnologia e estou querendo me profissionalizar
-- 🍃 Eu espero conhecer muitas pessoas íncriveis aqui no GitHub, e poder compartilhar meus códigos com todos vocês
----
-### Redes Sociais
-- Meu [Instagram](https://www.instagram.com/anglogaab/)
-### Estudos
-- Veja o que estou estudando em [Estudos](https://github.com/Angelo-Gabriel-Dev/Estudos)
+# 💫 About Me:
+- Sou um estudante de Front end
+- Amo a área de tecnologia e quero me profissionalizar
+- Espero conhecer muitas pessoas aqui no github
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anglogaab) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Angelo-Gabriel-Dev&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Angelo-Gabriel-Dev&theme=github_dark&hide_border=false)<br/>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
