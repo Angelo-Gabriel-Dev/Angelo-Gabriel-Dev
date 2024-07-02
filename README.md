@@ -2,6 +2,7 @@
 - Sou um estudante de Front end
 - Amo a área de tecnologia e quero me profissionalizar
 - Espero conhecer muitas pessoas aqui no github
+- Veja meus [Estudos](https://github.com/Angelo-Gabriel-Dev/Estudos)
 
 
 ## 🌐 Socials:
