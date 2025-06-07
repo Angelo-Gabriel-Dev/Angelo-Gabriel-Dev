@@ -1,5 +1,6 @@
 # 💫 About Me:
-- Sou um estudante de Front end
+- Sou um estudante iniciante de programação
+- Cursando Engenharia de Software
 - Amo a área de tecnologia e quero me profissionalizar
 - Espero conhecer muitas pessoas aqui no github
 - Veja meus [Estudos](https://github.com/Angelo-Gabriel-Dev/Estudos)
